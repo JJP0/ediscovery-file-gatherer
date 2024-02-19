@@ -11,5 +11,5 @@ I have found this to be useful in the following scenarios:
 
 # Note
 
-For emails that share the same name as a result of multiple replies or forwards (RE:, FW:), they will be prefaced with a number to allow them to be stored in the same directory.
+For emails that share the same name as a result of multiple replies or forwards (RE:, FW:), they will be prefixed with a number to allow them to be stored in the same directory.
 If you require the filename to exactly match the email subject, this won't work.
